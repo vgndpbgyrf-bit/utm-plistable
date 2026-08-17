@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<value>software-package</value>
+					<key>url</key>
+					<string>file:///UTM.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.utmapp.UTM</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<value>software</value>
+				<key>title</key>
+				<string>UTM</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
